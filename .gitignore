@@ -1,0 +1,11 @@
+.DS_Store
+*.skill
+node_modules/
+.env
+.env.local
+
+# Private brand context + competitor research (not part of the public skills repo)
+saubhya-brand-context.md
+saubhya-data/
+saubhya-reels.md
+saubhya-reels-production.txt

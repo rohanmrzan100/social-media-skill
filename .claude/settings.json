@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./validate-skills.sh)",
+      "Bash(python3 -m json.tool)",
+      "WebFetch(domain:www.instagram.com)",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 /tmp/parse_ig.py)",
+      "Bash(python3 /tmp/voice_samples.py)",
+      "Bash([ -f \"$F\" ])",
+      "Bash(git check-ignore *)",
+      "WebSearch",
+      "Bash(awk '{print $9, $5}')",
+      "Bash(chmod +x saubhya-data/refresh.sh)",
+      "Bash(bash saubhya-data/refresh.sh)"
+    ]
+  }
+}
