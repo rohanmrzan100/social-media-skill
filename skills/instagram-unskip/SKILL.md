@@ -125,7 +125,7 @@ Comments help, but they are a secondary lever. Optimize after skip and share.
 
 **Tactics that work:**
 
-- Polarizing takes that invite disagreement ("Most CMOs are still measuring the wrong thing.")
+- Polarizing takes that invite disagreement ("Most CMOs are still measuring the wrong thing."). When the polarizing take is also the **opener**, it does double duty as a scroll-stop — engineer it as a hook via `hook-machine`'s Contrarian/Myth-Bust frame (Frame 6).
 - Easy-to-answer questions with low friction ("Coffee or tea? Curious which side wins here.")
 - Opinion prompts — "Hot take: __. Agree or disagree?"
 - Fill-in-the-blank — "The best thing about a remote team is ___"
@@ -255,6 +255,9 @@ Default structure:
 | **Story** | "Last week, [unexpected thing] happened." | "Last week, a $4M deal closed because of a typo." |
 | **Stakes** | "If you've ever [specific painful thing]…" | "If you've ever pitched a board and watched them check their phones…" |
 | **Promise** | "[Number] [things] that [outcome]:" | "3 carousel openers that doubled my share rate." |
+| **Real comment** | Open on a screen-grabbed real comment/DM, then answer it. | *[comment overlay]* "Mero ta daily ko ho, kei garna man na hunu" → the reel responds to it. |
+
+**Real-comment cold open (a visual + social-proof hook).** Opening on a *genuine* comment or DM — shown as a familiar comment-UI overlay — does three things at once: the familiar UI is a pattern-interrupt that earns subconscious trust, it states the pain point in the **audience's own words** (not yours), and it's free social proof. Then the reel becomes the answer to that comment. Source these from real engagement — e.g. `saubhya-data`'s `latestComments`, or actual DMs. **Honesty rule:** use a real comment (recreate it cleanly for legibility, don't fabricate one); a faked comment is the kind of trust-breaking shortcut to avoid. Pairs naturally with `hook-machine` Frame 6 — a real comment often *is* the common belief you then overturn.
 
 **On-screen text rules:**
 

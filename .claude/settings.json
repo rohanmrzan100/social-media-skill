@@ -12,7 +12,12 @@
       "WebSearch",
       "Bash(awk '{print $9, $5}')",
       "Bash(chmod +x saubhya-data/refresh.sh)",
-      "Bash(bash saubhya-data/refresh.sh)"
+      "Bash(bash saubhya-data/refresh.sh)",
+      "Bash(rm *.txt && ls)",
+      "Bash(pandoc --version)"
+    ],
+    "additionalDirectories": [
+      "/Users/rohanmaharjan/code/personal/social-media-skills/saubhya-reels"
     ]
   }
 }

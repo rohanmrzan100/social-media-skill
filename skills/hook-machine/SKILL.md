@@ -58,13 +58,31 @@ For **any other account**, the method is identical: scrape it via Apify into the
 - **No throat-clearing.** The hook starts *on* the idea — no "Hey guys," no windup.
 - **One curiosity gap.** Open a loop the viewer needs closed; don't answer it in line 1.
 - **Write to one person** (Audience of One — see `fandom-funnel`), not a stadium.
+- **Relatability gate.** A desire-based hook dies the instant the viewer decides the person/character isn't *like them*. Score every hook: does the subject read as a peer, or as someone with an **unfair advantage** (money, time, talent, special access)? Peer ⇒ stop; unattainable ⇒ scroll. The closer the character to the viewer, the stronger the pull.
+- **Constraint-free framing.** State the dream outcome, then make the method read as **simple, low-resource, repeatable**. "Took a month off and still grew 11k" wins because the *how* sounds effortless. If the hook implies you need cash/credentials/luck, it converts desire into "not for me." Treat any implied unfair advantage as a **loser signal**.
 
 **Saubhya-derived patterns (from her real winners):**
 - Her ceiling post (6,312 views) was a **message — "it's not your body, it's the fit"** — not a product drop. *Message/POV hooks beat catalog hooks.*
+- That same ceiling post is a **contrarian/myth-bust opener** (name a belief → overturn it). It out-reached everything because the take *invites comments* (self-tag / agree / argue), and conversation feeds reach. *A contrarian opener is a winner signal — make it deliberate (Frame 6), don't wait for it to happen by accident.*
 - **First-person relatable moment** (Ekata model) outperforms "New drop."
 - Breaking the catalog pattern ≈ doubles reach. Treat "New …", "Available now", price-led openers as **loser signals** to avoid.
 
 > Re-derive the data-driven half of the rubric whenever the corpus is refreshed — patterns drift.
+
+---
+
+## Desire-based frames (structures to fill, not blank-page invention)
+
+Five grammatical frames for the same move — *lead with the dream outcome a relatable peer reached via a constraint-free method.* These are scaffolds you fill **from the corpus and the rubric above**, not prompts to invent hooks from nothing — that would violate the core lesson. Use them when a draft is stuck or you need angle variety on one topic.
+
+1. **About Me (looking back)** — *"I [did simple thing] and still [outcome]."* Recounts a result via a repeatable method. e.g. "Took a break from posting for a month and still grew 11k."
+2. **If I (looking forward)** — *"If I were starting from scratch, here's exactly what I'd do to [outcome] in [N simple steps]."* Hypothetical step-by-step path.
+3. **To You (direct address)** — *"If you want [desire], this one trick makes it easy."* Viewer is the character; a simple method for their problem.
+4. **Can You? (question)** — *"Is it possible to [outcome] in [tight constraint]?"* Invites the viewer to imagine achieving it.
+5. **He/She Just Did (third-party proof)** — *"This [relatable person] [achieved outcome] by [simple method]."* Social proof via a peer, not a celebrity.
+6. **Contrarian / Myth-Bust (name the belief, then break it)** — *"Most [peers] think [common belief] — actually [reframe]."* Lead with a take a chunk of the audience quietly holds, then overturn it. Does **double duty**: it's a peer-POV scroll-stop *and* a comment engine — people self-tag ("omg this is me"), agree, or argue, and that conversation is the reach lever. This is **the single most proven frame in Saubhya's own data**: her all-time ceiling post (6,312 views) was exactly this — _"Most girls think kurti ramro na dekhinu body issue ho"_ → it's the fit, not your body. Treat it as a deliberate move, not a lucky one-off. Guardrails: the contrarian take must be **about a belief/feeling**, never a swipe at the customer, a competitor, or anything off-brand — and it still honors her non-negotiables (no backstory, no prices, no concept-lists). The comment-volume side of this lever is `instagram-unskip`'s comment-rate tactic; this frame is the *hook* form of it.
+
+**Saubhya translation:** the *funnel/lead-gen* origin of these frames does **not** apply to her brand. The transferable part is the relatability + constraint-free principle inside her "everyday relatable life" territory — and frames 1, 3, 5, 6 adapt cleanly (her real winner "it's not your body, it's the fit" is a *Contrarian/Myth-Bust* + *To You* move). Still honor her non-negotiables: no backstory, no prices, no concept-list menus.
 
 ---
 
