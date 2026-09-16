@@ -16,7 +16,9 @@
       "Bash(rm *.txt && ls)",
       "Bash(pandoc --version)",
       "Bash(python3 -c \"import markdown; print\\('py-markdown ok'\\)\")",
-      "Bash(brew install *)"
+      "Bash(brew install *)",
+      "Bash(git checkout *)",
+      "Bash(file .claude/skills/*)"
     ],
     "additionalDirectories": [
       "/Users/rohanmaharjan/code/personal/social-media-skills/saubhya-reels"
